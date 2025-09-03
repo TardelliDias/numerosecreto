@@ -25,7 +25,7 @@
 //    }
 
 let listaDeNumerosSorteados = [];
-let numero = 100;
+let numero = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
